@@ -1,1 +1,6 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
+title: Welcome to the Opticar homepage!
+description: Everything about the robotic base platform of the Opticar project
+show_downloads: false
+markdown: kramdown
+exclude: []"ReadMe.md"]
