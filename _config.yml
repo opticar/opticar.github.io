@@ -1,6 +1,8 @@
-theme: jekyll-theme-slate
-title: Welcome to the Opticar homepage!
-description: Everything about the robotic base platform of the Opticar project
+theme: jekyll-theme-minimal
+title: OptiCar - Circular optical perception
+description: The demonstration platform of the OptiCar project
 show_downloads: false
 markdown: kramdown
 exclude: ["ReadMe.md"]
+baseurl: ""
+logo: /assets/logo.jpg
