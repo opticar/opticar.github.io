@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+nav {
+    display: inline;
+}
+
+nav ul {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #f1f1f1;
+    border: 1px solid #555;
+}
+
+nav ul li {
+    display: inline;
+    border: 1px solid #888;
+}
