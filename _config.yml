@@ -3,6 +3,11 @@ title: OptiCar - Circular optical perception
 description: The demonstration platform of the OptiCar project
 show_downloads: false
 markdown: kramdown
-exclude: ["ReadMe.md"]
+exclude: [
+  "ReadMe.md",
+  "Gemfile",
+  "Gemfile.lock",
+  ".git"
+  ]
 baseurl: ""
 logo: /assets/logo.jpg
