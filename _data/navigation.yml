@@ -1,0 +1,9 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Hardware"
+    url: /hardware/
+  - title: "Software"
+    url: /software/
+  - title: "Circular Optical Perception"
+    url: /cop/
